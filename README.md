@@ -9,37 +9,9 @@
  
 </p>
 
-### 💪 Skills
-#### Languages
-<p>
- <img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/>
-</p>
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
- </p>
- 
- #### framework, library
-<p>
-<img src="https://img.shields.io/badge/Spring Boot-green?style=flat-square&logo=Spring Boot&logoColor=black"/>    
-     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-     <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-</p>
 
-#### DB 
- <p>
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> 
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-</p>
+***
+- 🌱 You can read my TIl, WIL and stories on <a href="https://danykde0til.tistory.com/" target="_blank"><img src="https://camo.githubusercontent.com/7b23e15954e11bb3021bcce04bf25a7e4245d0338432f2e562a8b3e64c557fec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56656c6f672d3230633939373f7374796c653d706c6173746963266c6f676f3d56696d656f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Velog-20c997?style=plastic&amp;logo=Vimeo&amp;logoColor=white" style="max-width: 100%;"/></a>
 
-
-#### Tools
-<p>
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">   
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
+***
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeun0725&langs_count=10&layout=compact&theme=dark)](https://github.com/daeun0725)
